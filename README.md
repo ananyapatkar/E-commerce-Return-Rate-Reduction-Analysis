@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 Product returns are a major challenge in e-commerce, increasing operational costs and affecting profitability.  
-This project focuses on analyzing return patterns and predicting the likelihood of product returns using data analytics and machine learning.
+This project focuses on analyzing return patterns and predicting the likelihood of product returns using data analytics and machine learning
 
 ---
 
@@ -47,4 +47,4 @@ This project focuses on analyzing return patterns and predicting the likelihood 
   - Accuracy Score  
   - Precision, Recall, F1-score  
 
----
+
